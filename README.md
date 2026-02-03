@@ -5,7 +5,9 @@ This repository is a **centralized hub** for my **Data Analysis projects**, focu
 Each project is hosted in a separate repository and documented individually.
 
 ## 📂 Projects
+### Business Analysis – Mini project 1
 
+Repository link : https://github.com/adeel-ai-builder/Business-Analysis-Internship-Task-1
 
 ## 📌 Why This Hub Exists
 
