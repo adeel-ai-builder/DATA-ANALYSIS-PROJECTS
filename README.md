@@ -9,6 +9,10 @@ Each project is hosted in a separate repository and documented individually.
 
 Repository link : https://github.com/adeel-ai-builder/Business-Analysis-Internship-Task-1
 
+### Business Analysis – Mini project 2
+
+Repository link : https://github.com/adeel-ai-builder/Business-Analysis-Internship-Task-2-Data-Cleaning
+
 ## 📌 Why This Hub Exists
 
 - Keeps analytical projects organized
