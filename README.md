@@ -13,6 +13,10 @@ Repository link : https://github.com/adeel-ai-builder/Business-Analysis-Internsh
 
 Repository link : https://github.com/adeel-ai-builder/Business-Analysis-Internship-Task-2-Data-Cleaning
 
+### Business Analysis – Mini project 3
+
+Repository link : https://github.com/adeel-ai-builder/Business-Analysis-Internship-Task-3-EDA
+
 ## 📌 Why This Hub Exists
 
 - Keeps analytical projects organized
