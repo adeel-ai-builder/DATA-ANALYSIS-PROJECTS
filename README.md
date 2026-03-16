@@ -5,17 +5,22 @@ This repository is a **centralized hub** for my **Data Analysis projects**, focu
 Each project is hosted in a separate repository and documented individually.
 
 ## 📂 Projects
-### Business Analysis – Mini project 1
 
-Repository link : https://github.com/adeel-ai-builder/Business-Analysis-Internship-Task-1
+### Business Analysis – Mini project 4
+
+Repository link : https://github.com/adeel-ai-builder/Customer-Segmentation-Analysis-using-Python-task-4
+
+### Business Analysis – Mini project 3
+
+Repository link : https://github.com/adeel-ai-builder/Business-Analysis-Internship-Task-3-EDA
 
 ### Business Analysis – Mini project 2
 
 Repository link : https://github.com/adeel-ai-builder/Business-Analysis-Internship-Task-2-Data-Cleaning
 
-### Business Analysis – Mini project 3
+### Business Analysis – Mini project 1
 
-Repository link : https://github.com/adeel-ai-builder/Business-Analysis-Internship-Task-3-EDA
+Repository link : https://github.com/adeel-ai-builder/Business-Analysis-Internship-Task-1
 
 ## 📌 Why This Hub Exists
 
